@@ -1,2 +1,2 @@
 web: bash start
-web: python app.py
+web: python3 -m ANNIEMUSIC
