@@ -1,2 +1,2 @@
 worker: bash start
-web: bash koyeb start:production
+web: bash koyeb start
